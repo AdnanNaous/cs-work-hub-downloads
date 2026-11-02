@@ -10,7 +10,7 @@ Created by [Adnan Naous](https://linktr.ee/VC351).
 
 ## Installation
 
-On Windows, download the setup ZIP from this repository's Releases page, extract all files, and run `Install-CS-Work-Hub.cmd`. Choose the dashboard alone or the optional Developer Pack. Alternatively, use **Extensions: Install from VSIX...** in VS Code to install the main VSIX. VS Code desktop 1.90 or newer is required; the prebuilt extension does not require Node.js.
+On Windows, [download the latest setup ZIP](https://github.com/AdnanNaous/cs-work-hub-downloads/releases/latest), extract all files, and run `Install-CS-Work-Hub.cmd`. Choose the dashboard alone or the optional Developer Pack. Alternatively, use **Extensions: Install from VSIX...** in VS Code to install the main VSIX. VS Code desktop 1.90 or newer is required; the prebuilt extension does not require Node.js.
 
 Open **CS WORK HUB: Open Dashboard** from the VS Code Command Palette. The optional **CS Work Hub Monochrome** theme is selected separately via **Preferences: Color Theme**; installation does not change your current theme.
 
