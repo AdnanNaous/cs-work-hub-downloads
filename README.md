@@ -4,6 +4,10 @@ A local-first project dashboard and project creator for desktop Visual Studio Co
 
 Created by [Adnan Naous](https://linktr.ee/VC351).
 
+![CS Work Hub dashboard in VS Code](assets/dashboard.png)
+
+![CS Work Hub Monochrome theme](assets/theme.png)
+
 ## Installation
 
 On Windows, download the setup ZIP from this repository's Releases page, extract all files, and run `Install-CS-Work-Hub.cmd`. Choose the dashboard alone or the optional Developer Pack. Alternatively, use **Extensions: Install from VSIX...** in VS Code to install the main VSIX. VS Code desktop 1.90 or newer is required; the prebuilt extension does not require Node.js.
