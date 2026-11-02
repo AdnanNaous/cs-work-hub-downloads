@@ -1,0 +1,41 @@
+CS WORK HUB — PROPRIETARY SOURCE-AVAILABLE LICENSE
+Copyright (c) 2026 Adnan Naous. All rights reserved.
+
+Version 1.0 — Effective for CS Work Hub releases expressly distributed with this license.
+
+1. Scope. This license applies only to original CS Work Hub software, source code,
+documentation, and assets owned or validly licensable by Adnan Naous and
+distributed with this notice. Independently licensed third-party components,
+including bundled dependencies, remain governed by their respective licenses
+and notices. See THIRD-PARTY-NOTICES.md where applicable.
+
+2. Permitted end-user use. You may download, install, and run an authentic,
+unmodified official CS Work Hub extension release for personal, educational,
+or internal professional use. You may keep reasonable backup copies for your
+own use. This permission is non-exclusive, non-transferable, and revocable
+for breach of these terms, to the extent permitted by applicable law.
+
+3. Reserved rights. Except for the limited permission in Section 2 and
+permissions required by applicable law, you are NOT granted permission to
+redistribute, resell, sublicense, repackage, publish, modify, create
+derivative works from, or incorporate CS Work Hub proprietary source code or
+bundled proprietary assets into another product without prior written
+permission from the copyright owner. No trademark or branding rights are
+granted.
+
+4. Source visibility. If source code is made visible in a public GitHub
+repository, GitHub users may view and fork it to the extent permitted under
+GitHub's Terms of Service. Source visibility does not itself grant additional
+copyright permissions for reuse, redistribution, or derivative works.
+
+5. Earlier grants. This license does not retroactively cancel any rights
+validly granted for copies previously distributed under another license.
+Third-party licenses are unaffected.
+
+6. Disclaimer. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY
+KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+THE COPYRIGHT OWNER DISCLAIMS LIABILITY FOR DAMAGES ARISING FROM USE OF THE
+SOFTWARE TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+For a separate written redistribution, modification, or commercial licensing
+arrangement, contact the creator through https://linktr.ee/VC351 .

@@ -1,0 +1,8 @@
+*.vsix
+*.zip
+.env
+.env.*
+notes/
+work-hub-data/
+legacy/
+node_modules/
