@@ -6,3 +6,11 @@ notes/
 work-hub-data/
 legacy/
 node_modules/
+
+# Local credentials; inspect tracked files and history separately.
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
