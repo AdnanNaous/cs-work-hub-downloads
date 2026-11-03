@@ -23,3 +23,7 @@ Work Hub stores data locally. Back up your actual project folders separately. It
 ## License and security
 
 Original CS Work Hub code is distributed under the [proprietary license](LICENSE); third-party components retain the licenses in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md). Earlier MIT-licensed copies retain previously granted rights. This downloads catalog does not contain private development history. See [SECURITY.md](SECURITY.md) for reporting information.
+
+## Release verification
+
+[Verify release checksums and understand publication boundaries](RELEASE-INTEGRITY.md).
